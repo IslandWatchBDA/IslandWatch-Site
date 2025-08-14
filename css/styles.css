@@ -147,9 +147,10 @@ body::before{
   inset:0;
   z-index:-1;
   background:url("../images/background.png") center/cover no-repeat;
-  opacity:.10; /* Always 10% */
+  opacity:.30; /* Always 10% */
   pointer-events:none;
 }
 
 /* Transparent hero so background shows */
 .hero{ background:transparent; position:relative; }
+
