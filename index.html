@@ -474,7 +474,7 @@
     <h2>Join the Waitlist</h2>
     <p>Get launch updates, pilot availability, and early offers. We’ll keep this list tight and spam‑free.</p>
 
-    <form class="form" name="waitlist" method="POST" data-netlify="true" data-netlify-honeypot="bot-field" action="/thanks.html">
+    <form class="form" name="waitlist" method="POST" data-netlify="true" netlify-honeypot="bot-field" action="/thanks.html">
       <input type="hidden" name="form-name" value="waitlist" />
       <p class="hidden">
         <label>Don’t fill this out: <input name="bot-field" /></label>
@@ -483,7 +483,7 @@
       <div class="form-grid">
         <label>
           <span>Name</span>
-          <input name="name" required class="input" placeholder="Your name" />
+          <input type="text" name="name" required class="input" placeholder="Your name" />
         </label>
         <label>
           <span>Email</span>
