@@ -113,7 +113,7 @@
       text: 'Detects impact-like patterns that may indicate a drop, tip-over, or collision event. Used as a signal for review—not a definitive crash diagnosis.'
     },
     night: {
-      title: 'Night riding patterns',
+      title: 'Night riding & driving patterns',
       text: 'Shows how often and how long rides occur during night hours. Useful for families, new riders, and anyone wanting extra visibility on late trips.'
     }
   };
