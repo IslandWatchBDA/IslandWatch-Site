@@ -595,7 +595,7 @@ footer{background:var(--ink);color:#fff;text-align:center;padding:1.4rem;font-si
   transform:scale(1.28);
   transform-origin:center;
 }
-.theft-shot{object-position:center 18% !important; transform:scale(.95) !important;}
+.theft-shot{object-position:center 75% !important; transform:scale(1.0) !important;}
 
 
 /* --- Safe Score fixed-height layout (desktop) --- */
