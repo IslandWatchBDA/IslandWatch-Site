@@ -28,7 +28,7 @@ body::before{
   z-index:-1;
   background:url("../images/background.png") center/cover no-repeat;
   /* Keep the background subtle so coral headings remain readable */
-  opacity:.10;
+  opacity:.30;
   pointer-events:none;
 }
 
